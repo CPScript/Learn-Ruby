@@ -1,0 +1,1 @@
+put "Ruby".length
