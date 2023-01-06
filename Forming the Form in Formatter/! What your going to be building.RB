@@ -18,3 +18,7 @@ state = gets.chomp
 state.upcase!
 
 puts "Your name is #{first_name} #{last_name} and you're from #{city}, #{state}!"
+
+
+
+# LEARN HOW TO MAKE THIS IN THIS SECTION^^^^^
